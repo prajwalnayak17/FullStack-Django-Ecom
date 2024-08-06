@@ -1,0 +1,18 @@
+__pycache__/
+core/__pycache__/
+djeccommerce/__pycache__/
+myenv/
+env/
+venv/
+.virtualenv/
+db.sqlite3
+# .env
+.env.local
+.env.*.local
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+*.log
+logs/
